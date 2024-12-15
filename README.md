@@ -1,1 +1,1 @@
-# ssh-chat
+# github.com/Paranoia8972
